@@ -1,10 +1,10 @@
-db52e3ae8a95c0c481b6985708966a10 *DESCRIPTION
+88d07f78144d7e1c60f5718c5e9c5e13 *DESCRIPTION
 fc61963200f2262218208b22369c5815 *NAMESPACE
 81205196e7af95d3b5a786b42629a39f *R/build_index.R
 d45250fc6e7d3bbc832a16a97addce68 *R/get_fastq.R
-a898e1108e6458fdb36bbb2d410f0146 *R/get_metadata.R
+d8ce15adcdca08494d0f378effe64506 *R/get_metadata.R
 2b10fa6894e5262fd5989df56749570a *R/get_srr.R
-d9081c30a13890919c2d1da60c3c85ed *R/process_geo_rnaseq.R
+9e244ee800288733a596ca37ba9ae020 *R/process_geo_rnaseq.R
 b3c823571317ed938aa028cc855653f2 *R/run_fastqc.R
 7dcb935fd2037b5ea1012eca1a6065ae *R/run_multiqc.R
 9d9031c705b11ce9661bba7ab50cd288 *R/run_salmon.R
@@ -15,7 +15,7 @@ c365ad19baaabb2799d4d9bb8cac21e3 *build/vignette.rds
 cb5fddd2bdfce8ee9ad9accc5688f5ab *inst/CITATION
 b7bd3e59044422ddc70d9adfcba6c2ed *inst/doc/vignette.R
 f55295f540aaf80080d7b88a8eb8cfc5 *inst/doc/vignette.Rmd
-1fe2e2123c4d09251cedd0ccdb7317bd *inst/doc/vignette.html
+5ae1eeb28f00cf44a3a147ed510260ce *inst/doc/vignette.html
 f2c2e40dbf6c90e841ac640104a992ed *inst/extdata/NexteraPE-PE.fa
 7867e2dbfd301758acb0f1eefaf7594a *inst/extdata/SRR5890521_pass.fastq
 dbe81d7c22bb0f956044d84a6c85e1dc *inst/extdata/SRR5890521_transcripts_quant/SRR5890521_quant_new.sf
@@ -30,10 +30,10 @@ dbe81d7c22bb0f956044d84a6c85e1dc *inst/extdata/SRR5890521_transcripts_quant/SRR5
 9a2bce4cd491ea60bd083c8d0dc42308 *man/get_fastq.Rd
 df5100dd0f6b6ca7f5f10b72992aa6a7 *man/get_metadata.Rd
 9cf93d144f749bfef89cc73419233191 *man/get_srr.Rd
-bae23b7bf96b859c47b9b927d577e5c2 *man/process_geo_rnaseq.Rd
+a41f2a06df42eb525c9244fafb48876f *man/process_geo_rnaseq.Rd
 a56110a0a2d4519ac3f43608066ad664 *man/run_fastqc.Rd
 7cc306b6f203ab71ca02d2ef175223b7 *man/run_multiqc.Rd
-a6491418592cf48040b16899720cc61f *man/run_salmon.Rd
+aebaff4e52bbf8e18b571ca0c63d9fc4 *man/run_salmon.Rd
 74ffea2c94c79416b88af9ffa2470b66 *man/run_tximport.Rd
 b830e8317ffdcd0a74b7c7f6dcec81b8 *man/trim_fastq.Rd
 256ef9cdc531ac1b5b823318cc8bfb7a *vignettes/ref.bib
